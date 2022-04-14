@@ -1,4 +1,6 @@
 Notes:
 
--built with MATLAB 2022a
--also requires datestring8601 avilable from https://www.mathworks.com/matlabcentral/fileexchange/34095-date-vector-number-to-iso-8601-date-string
+-MATLAB 2022a
+-requires additional functions: FilterGeneTable.m (included), NormalizeCounts.m (included), BinPermMat.m (included) and datestring8601 avilable from https://www.mathworks.com/matlabcentral/fileexchange/34095-date-vector-number-to-iso-8601-date-string
+-sGCA can be also used as standalone application (sGCAInstaller_web.exe) or from the MATLAB taskbar (app installer: sGCA_MATLAB_App,mIappinstall)
+-caution: this software is neither extensively tested or regugulrly maintained
